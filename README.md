@@ -36,6 +36,19 @@ O sistema foi criado para substituir processos manuais por uma ferramenta digita
 
 ---
 
+## 💻 Telas
+
+<div align="center">
+
+| Emissão do Voucher | Consulta do Veículo |
+| :---: | :---: |
+| <img src="img/Cadastrar.PNG" width="350"> | <img src="img/Consultar2.PNG" width="350"> |
+
+</div>
+
+
+--
+
 ## 📐 Arquitetura do Fluxo
 
 ```mermaid
@@ -48,10 +61,10 @@ graph TD
         F -- "Existe" --> G[Finaliza Atendimento]
         G -- "Após 24h" --> H[Remoção Automática]
 ```
-<div align="center">
 
-| Emissão do Voucher | Consulta do Veículo |
-| :---: | :---: |
-| <img src="img/Cadastrar.PNG" width="350"> | <img src="img/Consultar.PNG" width="350"> |
+##  👤 Contato
+**Desenvolvido por:** Gabriel Franco 🚀
 
-</div>
+* **LinkedIn:** [gabriel-franc0](https://www.linkedin.com/in/gabriel-franc0)
+
+* **E-mail:** gafranco.contato@gmail.com
